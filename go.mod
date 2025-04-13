@@ -1,4 +1,4 @@
-module viska/proto
+module github.com/SilverNate/viska/proto
 
 go 1.23.2
 
